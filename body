@@ -1,0 +1,13 @@
+body {
+  font-size:1.25em;
+}
+
+p {
+    background-color: yellow;
+
+}
+p {
+
+    width: 300px;
+    height: 40px;
+}
